@@ -1,0 +1,15 @@
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\bin\Debug\net6.0\TemplatePattern.exe
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\bin\Debug\net6.0\TemplatePattern.deps.json
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\bin\Debug\net6.0\TemplatePattern.runtimeconfig.json
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\bin\Debug\net6.0\TemplatePattern.dll
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\bin\Debug\net6.0\TemplatePattern.pdb
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.AssemblyReference.cache
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfoInputs.cache
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.AssemblyInfo.cs
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.csproj.CoreCompileInputs.cache
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.dll
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\refint\TemplatePattern.dll
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.pdb
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\TemplatePattern.genruntimeconfig.cache
+E:\Desktop\Управление информационными системами\Lab1\TemplatePattern\obj\Debug\net6.0\ref\TemplatePattern.dll
