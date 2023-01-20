@@ -1,12 +1,12 @@
 ﻿using StrategyPattern;
 
 Smartphone iphone = new Iphone();
-Smartphone samsung = new SansungGalaxy();
+Smartphone samsung = new SamsungGalaxy();
 
 iphone.StartUse();
-toyota.StartUse();
+samsung.StartUse();
 iphone.SetUse(new IosUse());
-toyota.SetUse(new AndroidUse());
+samsung.SetUse(new AndroidUse());
 
 iphone.StartUse();
-toyota.StartUse();
+samsung.StartUse();

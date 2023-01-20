@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StrategyPattern
 {
-    public class ToyotaLancer : Car
+    public class SamsungGalaxy : Smartphone
     {
-        public ToyotaLancer()
+        public SamsungGalaxy()
         {
-            this.SetDrive(new FullWheelDrive());
+            this.SetUse(new AndroidUse());
         }
     }
 }
